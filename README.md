@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! 🙋‍♂️ 
+I'm a computer enthusiast who loves coding and cybersecurity. 💻🔒 
+Check out my GitHub profile to see my projects and contributions. 🤓
 
 <!--
 **Monsieur-BoiBoi/Monsieur-BoiBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
