@@ -3,5 +3,4 @@
 - Check out my GitHub profile to see my projects and contributions. 🤓
 
 ### My GitHub Stats 📈
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x6d69636b&show_icons=true&theme=dark)
-
+![Monsieur-BoiBoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monsieur-BoiBoi&show_icons=true&theme=radical)
