@@ -5,7 +5,7 @@
 - Check out my GitHub profile to see my projects and contributions. 🤓
 
 ### My GitHub Stats 📈
-![Monsieur-BoiBoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monsieur-BoiBoi&show_icons=true&theme=transparent)
+![Monsieur-BoiBoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monsieur-BoiBoi&show_icons=true&theme=transparent&hide_border=true)
 
 ### My Skills 💻
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
