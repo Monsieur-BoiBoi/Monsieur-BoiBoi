@@ -7,6 +7,5 @@
 ### My GitHub Stats 📈
 ![Monsieur-BoiBoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monsieur-BoiBoi&show_icons=true&theme=radical)
 
-### My GitHub Trophies 🏆
-![trophy](https://github-profile-trophy.vercel.app/?username=Monsieur-BoiBoi&theme=onedark)
+
 
