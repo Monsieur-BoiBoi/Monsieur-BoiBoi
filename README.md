@@ -7,6 +7,9 @@
 ### My GitHub Stats 📈
 ![Monsieur-BoiBoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monsieur-BoiBoi&show_icons=true&theme=transparent&hide_border=true)
 
+
+### My Website 🌐
+[![Website](https://img.shields.io/website?label=monsieur-boiboi.github.io&style=for-the-badge&url=https%3A%2F%2Fmonsieur-boiboi.github.io)](https://monsieur-boiboi.github.io/)
 ### My Skills 💻
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
@@ -16,5 +19,3 @@
 <img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" />
 
 
-### My Website 🌐
-[![Website](https://img.shields.io/website?label=monsieur-boiboi.github.io&style=for-the-badge&url=https%3A%2F%2Fmonsieur-boiboi.github.io)](https://monsieur-boiboi.github.io/)
