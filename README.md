@@ -15,4 +15,5 @@
 <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
 <img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" />
 
-[website]: https://monsieur-boiboi.github.io/
+### My Website 🌐
+[![Website](https://img.shields.io/website?label=monsieur-boiboi.github.io&style=for-the-badge&url=https%3A%2F%2Fmonsieur-boiboi.github.io)](https://monsieur-boiboi.github.io/)
