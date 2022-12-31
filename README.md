@@ -1,12 +1,11 @@
 <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" width="100" height="100">
 
+
+<img align="center" src="https://i.pinimg.com/originals/5e/4c/65/5e4c655b9353e0be289273b3e7c4b227.jpg" width="300" height="200">
+
 ### Hi there! 🙋‍♂️ 
 - I'm a computer enthusiast who loves coding and cybersecurity. 💻🔒 
 - Check out my GitHub profile to see my projects and contributions. 🤓
-
-### My GitHub Stats 📈
-![Monsieur-BoiBoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monsieur-BoiBoi&show_icons=true&theme=transparent&hide_border=true)
-
 
 ### My Website 🌐
 [![Website](https://img.shields.io/website?label=monsieur-boiboi.github.io&style=for-the-badge&url=https%3A%2F%2Fmonsieur-boiboi.github.io)](https://monsieur-boiboi.github.io/)
