@@ -1,4 +1,3 @@
-<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" width="100" height="100">
 
 
 <img align="center" src="https://i.pinimg.com/originals/5e/4c/65/5e4c655b9353e0be289273b3e7c4b227.jpg" width="800" height="200">
@@ -17,3 +16,5 @@
 <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
 <img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" />
 <img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/131px-Java_Logo.svg.png" />
+
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" width="100" height="100">
